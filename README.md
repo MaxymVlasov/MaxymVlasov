@@ -19,8 +19,8 @@ Totally: <sub><sub><sub>[![wakatime](https://wakatime.com/badge/user/953159f9-c9
 
 [![antonbabenko/pre-commit-terraform](https://github-readme-stats.vercel.app/api/pin/?username=antonbabenko&repo=pre-commit-terraform&theme=github_dark&show_owner=true)](https://github.com/antonbabenko/pre-commit-terraform)
 [![eco-data-visualizer](https://github-readme-stats.vercel.app/api/pin/?username=MaxymVlasov&repo=eco-data-visualizer&theme=github_dark)](https://github.com/MaxymVlasov/eco-data-visualize)
-[![SpotOnInc/pre-commit-yq](https://github-readme-stats.vercel.app/api/pin/?username=SpotOnInc&repo=pre-commit-yq&theme=github_dark)](https://github.com/SpotOnInc/pre-commit-yq) 
-[![SpotOnInc/renovate-config](https://github-readme-stats.vercel.app/api/pin/?username=SpotOnInc&repo=renovate-config&theme=github_dark)](https://github.com/SpotOnInc/renovate-config) 
+[![SpotOnInc/pre-commit-yq](https://github-readme-stats.vercel.app/api/pin/?username=SpotOnInc&repo=pre-commit-yq&theme=github_dark&show_owner=true)](https://github.com/SpotOnInc/pre-commit-yq) 
+[![SpotOnInc/renovate-config](https://github-readme-stats.vercel.app/api/pin/?username=SpotOnInc&repo=renovate-config&theme=github_dark&show_owner=true)](https://github.com/SpotOnInc/renovate-config) 
 
 Owner of Ukrainian localization team. Localization progress [tracks here](https://github.com/kubernetes-i18n-ukrainian/website)
 
