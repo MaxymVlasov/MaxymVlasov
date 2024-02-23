@@ -18,7 +18,7 @@ Totally: <sub><sub><sub>[![wakatime](https://wakatime.com/badge/user/953159f9-c9
 [pre-commit-config](http://tinyurl.com/pre-commit-config) gist inculudes most useful pre-commit's for each stack
 
 [![antonbabenko/pre-commit-terraform](https://github-readme-stats.vercel.app/api/pin/?username=antonbabenko&repo=pre-commit-terraform&theme=github_dark&show_owner=true)](https://github.com/antonbabenko/pre-commit-terraform)
-[![eco-data-visualizer](https://github-readme-stats.vercel.app/api/pin/?username=MaxymVlasov&repo=eco-data-visualizer&theme=github_dark)](https://github.com/MaxymVlasov/eco-data-visualize)
+[![eco-data-visualizer](https://github-readme-stats.vercel.app/api/pin/?username=MaxymVlasov&repo=eco-data-visualizer&theme=github_dark)](https://github.com/MaxymVlasov/eco-data-visualizer)
 [![SpotOnInc/pre-commit-yq](https://github-readme-stats.vercel.app/api/pin/?username=SpotOnInc&repo=pre-commit-yq&theme=github_dark&show_owner=true)](https://github.com/SpotOnInc/pre-commit-yq) 
 [![SpotOnInc/renovate-config](https://github-readme-stats.vercel.app/api/pin/?username=SpotOnInc&repo=renovate-config&theme=github_dark&show_owner=true)](https://github.com/SpotOnInc/renovate-config) 
 
