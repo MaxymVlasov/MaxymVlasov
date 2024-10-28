@@ -7,6 +7,10 @@ https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md
 
 ## Stats
 
+<!-- Hide https://u8views.com/ tracker it to see how it works w/o exposing it ourside
+ [![Maksym Vlasov profile views](https://u8views.com/api/v1/github/profiles/11096782/views/day-week-month-total-count.svg)](https://u8views.com/github/MaxymVlasov) 
+-->
+
 [![MaxymVlasov's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxymvlasov&theme=github_dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Totally: <sub><sub><sub>[![wakatime](https://wakatime.com/badge/user/953159f9-c9f7-4010-b960-263f00f44197.svg)](https://wakatime.com/@953159f9-c9f7-4010-b960-263f00f44197)</sub></sub></sub> &nbsp; | &nbsp; Last year:
